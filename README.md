@@ -417,8 +417,8 @@ DIPINJAM → DIBATALKAN (dibatalkan)
 
 | No | Nama | NIM | Prodi | Angkatan | GitHub |
 |----|------|-----|-------|----------|--------|
-| 1 | **Sulistiani Nasya Marzu** | - | - | - | [sulistiani-coder](https://github.com/sulistiani-coder) |
-| 2 | **Yessi Hermadani** | - | - | - | - |
+| 1 | **Sulistiani Nasya Marzu** | SI21240018 | Sistem Informasi | 2021 | [sulistiani-coder](https://github.com/sulistiani-coder) |
+| 2 | **Yessi Hermadani** | SI21240019 | Sistem Informasi | 2021 | - |
 
 | | |
 |---|---|
@@ -463,6 +463,6 @@ SOFTWARE.
 
 **SIPELAL** - Sistem Informasi Peminjaman Alat Laboratorium
 
-Dibuat dengan by Kelompok Plenger
+Dibuat oleh Kelompok Plenger - Sulistiani Nasya Marzu & Yessi Hermadani
 
 </div>
