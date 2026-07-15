@@ -10,7 +10,7 @@
 
 **Mata Kuliah: Pemrograman Web 2**
 
-**Dosen Pengampu: [Nama Dosen]**
+**Dosen Pengampu: Jihadul Akbar, S.Kom**
 
 ---
 
@@ -417,13 +417,13 @@ DIPINJAM → DIBATALKAN (dibatalkan)
 
 | No | Nama | NIM | Prodi | Angkatan | GitHub |
 |----|------|-----|-------|----------|--------|
-| 1 | **Sulistiani Nasya Marzu** | SI21240018 | Sistem Informasi | 2021 | [sulistiani-coder](https://github.com/sulistiani-coder) |
-| 2 | **Yessi Hermadani** | SI21240019 | Sistem Informasi | 2021 | - |
+| 1 | **Sulistiani Nasya Marzu** | SI21240018 | Sistem Informasi | 2024 | [sulistiani-coder](https://github.com/sulistiani-coder) |
+| 2 | **Yessi Hermadani** | SI21240019 | Sistem Informasi | 2024 | - |
 
 | | |
 |---|---|
 | **Mata Kuliah** | Pemrograman Web 2 |
-| **Dosen Pengampu** | [Nama Dosen] |
+| **Dosen Pengampu** | Jihadul Akbar, S.Kom |
 | **Semester** | - |
 | **Tahun Akademik** | - |
 
