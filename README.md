@@ -230,6 +230,12 @@ DB_PASSWORD=
 
 > **Catatan:** Ubah informasi akun demo sesuai kebutuhan Anda.
 
+### Video Demo
+
+[![Watch on YouTube](https://img.shields.io/badge/Watch_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@sulistianinasyamarzu?si=ZIxWm7TP6dZVqnes)
+
+### Akun Login
+
 | Role | Email | Password | Keterangan |
 |------|-------|----------|------------|
 | Super Admin | `admin@sipelal.test` | `password` | Akses penuh ke seluruh sistem |
