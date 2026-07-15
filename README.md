@@ -2,9 +2,9 @@
 
 <div align="center">
 
-**[Nama Institusi Universitas]**
+**STMIK Lombok**
 
-**[Nama Fakultas / Program Studi]**
+**Program Studi Sistem Informasi**
 
 ---
 
@@ -424,8 +424,8 @@ DIPINJAM → DIBATALKAN (dibatalkan)
 |---|---|
 | **Mata Kuliah** | Pemrograman Web 2 |
 | **Dosen Pengampu** | Jihadul Akbar, S.Kom |
-| **Semester** | - |
-| **Tahun Akademik** | - |
+| **Semester** | 4 |
+| **Tahun Akademik** | 2026 |
 
 ---
 
