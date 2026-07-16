@@ -228,8 +228,6 @@ DB_PASSWORD=
 
 ## Akun Demo
 
-> **Catatan:** Ubah informasi akun demo sesuai kebutuhan Anda.
-
 ### Video Demo
 
 [![Watch on YouTube](https://img.shields.io/badge/Watch_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@sulistianinasyamarzu?si=ZIxWm7TP6dZVqnes)
@@ -333,93 +331,89 @@ DIPINJAM → DIBATALKAN (dibatalkan)
 
 ## Screenshot Aplikasi
 
-> **Catatan:** Ganti placeholder di bawah dengan screenshot aktual aplikasi. Letakkan file gambar di folder `public/screenshots/` atau gunakan path relatif.
-
 ### 1. Landing Page
-![Landing Page](public/screenshots/landing-page.png)
+![Landing Page](landingpage.png)
 *Halaman utama dengan hero section, fitur unggulan, dan CTA*
 
 ### 2. Halaman Login
-![Login](public/screenshots/login.png)
+![Login](formlogin.png)
 *Form login dengan validasi dan pesan error*
 
 ### 3. Halaman Register
-![Register](public/screenshots/register.png)
+![Register](formregistrasi.png)
 *Form registrasi mahasiswa (NIM, prodi, angkatan)*
 
 ### 4. Dashboard Mahasiswa
-![Dashboard Mahasiswa](public/screenshots/dashboard-mahasiswa.png)
+![Dashboard Mahasiswa](dashboardmahasiswa.png)
 *Statistik pribadi: jumlah pinjam, aktif, dan denda*
 
 ### 5. Katalog Alat
-![Katalog Alat](public/screenshots/katalog-alat.png)
+![Katalog Alat](katalogalat.png)
 *Grid card alat dengan pencarian dan detail*
 
 ### 6. Detail Alat
-![Detail Alat](public/screenshots/detail-alat.png)
+![Detail Alat](detailalat.png)
 *Spesifikasi lengkap, unit tersedia, dan kondisi*
 
 ### 7. Form Peminjaman
-![Form Peminjaman](public/screenshots/form-peminjaman.png)
+![Form Peminjaman](formpeminjaman.png)
 *Pemilihan unit, tanggal, tujuan, dan dosen pembimbing*
 
 ### 8. Riwayat Peminjaman
-![Riwayat Peminjaman](public/screenshots/riwayat-peminjaman.png)
+![Riwayat Peminjaman](riwayatpeminjaman.png)
 *Daftar riwayat peminjaman dengan status badge*
 
 ### 9. Detail Peminjaman & QR Code
-![Detail Pinjam QR](public/screenshots/detail-pinjam-qr.png)
+![Detail Pinjam QR](detailpeminjaman&qrcode.png)
 *Detail peminjaman lengkap beserta QR Code*
 
 ### 10. Dashboard Admin Lab
-![Dashboard Admin Lab](public/screenshots/dashboard-admin.png)
+![Dashboard Admin Lab](dashboardadminlab.png)
 *Statistik lab, jumlah alat, unit, dan peminjaman*
 
 ### 11. Manajemen Alat (Admin)
-![Manajemen Alat](public/screenshots/manajemen-alat.png)
+![Manajemen Alat](manajemenalat.png)
 *CRUD alat dengan foto dan kondisi unit*
 
 ### 12. Approval Dosen
-![Approval Dosen](public/screenshots/approval-dosen.png)
+![Approval Dosen](appropaldosen.png)
 *Daftar peminjaman yang menunggu persetujuan dosen*
 
 ### 13. Approval Admin Lab
-![Approval Admin](public/screenshots/approval-admin.png)
+![Approval Admin](appropaladmin.png)
 *Daftar peminjaman yang sudah disetujui dosen, menunggu admin*
 
 ### 14. Proses Pengembalian
-![Pengembalian](public/screenshots/pengembalian.png)
+![Pengembalian](prosespengembalian.png)
 *Pencatatan kondisi alat saat pengembalian*
 
 ### 15. Dashboard Super Admin
-![Dashboard Super Admin](public/screenshots/dashboard-superadmin.png)
+![Dashboard Super Admin](dashboardsuperadmin.png)
 *Statistik global, manajemen pengguna, dan monitoring*
 
 ### 16. Manajemen Pengguna (Super Admin)
-![Manajemen User](public/screenshots/manajemen-user.png)
+![Manajemen User](manajemenuser.png)
 *CRUD pengguna, toggle status aktif/suspended*
 
 ### 17. Laporan & Ekspor
-![Laporan](public/screenshots/laporan.png)
+![Laporan](laporan&ekspor.png)
 *Halaman laporan dengan filter tanggal dan tombol export PDF/Excel*
 
 ### 18. Sistem Notifikasi
-![Notifikasi](public/screenshots/notifikasi.png)
+![Notifikasi](systemnotifikasi.png)
 *Daftar notifikasi in-app dengan badge counter*
 
 ### 19. QR Code Scanner
-![QR Scanner](public/screenshots/qr-scanner.png)
+![QR Scanner](qrcodescanner.png)
 *Halaman scan QR Code untuk identifikasi peminjaman*
 
 ### 20. Activity Log
-![Activity Log](public/screenshots/activity-log.png)
+![Activity Log](activitylog.png)
 *Log audit perubahan data oleh seluruh pengguna*
 
 ---
 
 ## Identitas Mahasiswa
-
-> **Catatan:** Lengkapi data diri Anda dan rekan di bawah ini.
 
 | No | Nama | NIM | Prodi | Angkatan | GitHub |
 |----|------|-----|-------|----------|--------|
